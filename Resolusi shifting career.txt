@@ -1,2 +1,4 @@
 ikut Course data scientist di coursera (guide/roadmap learning)
-belajar skill baru
+Belajar Python
+Belajar R
+Belajar Git Dan Github
