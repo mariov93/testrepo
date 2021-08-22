@@ -3,5 +3,11 @@ Belajar Python
   > Introducing Python
   > Markdown
   > Basic Command
+      - Belajar Fitur-fitur yang ada di python
+  > Package/ Library di pyhton untuk Data scientist
+      - Pandas
+      - Numpy
+      - Mathplotlib
+      - Seaborn
 Belajar R
 Belajar Git Dan Github
