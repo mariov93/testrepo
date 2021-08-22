@@ -1,4 +1,7 @@
 ikut Course data scientist di coursera (guide/roadmap learning)
 Belajar Python
+  > Introducing Python
+  > Markdown
+  > Basic Command
 Belajar R
 Belajar Git Dan Github
