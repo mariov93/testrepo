@@ -1,4 +1,9 @@
 ikut Course data scientist di coursera (guide/roadmap learning)
 Belajar Python
 Belajar R
+  > Introduction R
+  > Basic Command (pengenalan Fitur software UI)
+  > Practice menggunakan data Iris dan mtcars
+  > Plotting with R Studio
+      - Menggunakan Package GGplot2 GGally
 Belajar Git Dan Github
