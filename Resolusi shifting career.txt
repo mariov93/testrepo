@@ -16,3 +16,7 @@ Belajar R
   > Plotting with R Studio
       - Menggunakan Package GGplot2 GGally
 Belajar Git Dan Github
+  > pengenalan Git dan Git Hub
+  > Membuat Repository dan File utama
+  > membuat cabang dan merge cabang
+  
