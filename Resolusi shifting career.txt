@@ -10,4 +10,9 @@ Belajar Python
       - Mathplotlib
       - Seaborn
 Belajar R
+  > Introduction R
+  > Basic Command (pengenalan Fitur software UI)
+  > Practice menggunakan data Iris dan mtcars
+  > Plotting with R Studio
+      - Menggunakan Package GGplot2 GGally
 Belajar Git Dan Github
