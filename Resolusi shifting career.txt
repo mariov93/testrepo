@@ -2,3 +2,7 @@ ikut Course data scientist di coursera (guide/roadmap learning)
 Belajar Python
 Belajar R
 Belajar Git Dan Github
+  > pengenalan Git dan Git Hub
+  > Membuat Repository dan File utama
+  > membuat cabang dan merge cabang
+  
